@@ -1,0 +1,3 @@
+项目源代码体量较大，请访问github仓库获取：
+Paddle主仓库：https://github.com/PaddlePaddle/Paddle
+SOT代码位置：Paddle/python/paddle/jit
